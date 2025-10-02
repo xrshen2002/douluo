@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# 临时文件
+*.tmp
+*.bak
+*~
+
+# 编辑器
+.vscode/
+.idea/
+
+# 个人笔记（如果不想提交）
+# notes/
